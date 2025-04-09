@@ -9,3 +9,7 @@ I am Trinity and thus is what i've learnt so far
 - Python (automation, AI, scripts)
 - Django (beginner)
 - WordPress (themes, plugins, site customization)
+
+### HTML5
+I learnt about 
+- Heading 
