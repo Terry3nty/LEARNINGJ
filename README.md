@@ -13,3 +13,6 @@ I am Trinity and thus is what i've learnt so far
 ### HTML5
 I learnt about 
 - Heading 
+- Paragraphs 
+- hyperlinks
+- emmets and tags 
