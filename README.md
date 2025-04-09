@@ -16,3 +16,18 @@ I learnt about
 - Paragraphs 
 - hyperlinks
 - emmets and tags 
+- structure
+- forms 
+- Graphics 
+- Html media
+
+### CSS3
+i learnt about
+- basic css
+- advance css
+- margin
+- padding
+- box model
+- outline
+- flex box
+- css grid
